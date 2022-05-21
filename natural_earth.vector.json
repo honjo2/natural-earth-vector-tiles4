@@ -463,6 +463,7 @@
                 ]
             ],
             "layout": {
+                "visibility": "none",
                 "line-cap": "round"
             },
             "paint": {
